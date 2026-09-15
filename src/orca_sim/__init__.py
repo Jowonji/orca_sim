@@ -10,10 +10,14 @@ from orca_sim.envs import (
     OrcaHandRight,
     OrcaHandRightExtended,
 )
+from orca_sim.pose import JointNameError, JointPoseMapper, JointPoseWrapper
 from orca_sim.registry import register_envs
 from orca_sim.task_envs import OrcaHandRightCubeOrientation
 
 __all__ = [
+    "JointNameError",
+    "JointPoseMapper",
+    "JointPoseWrapper",
     "OrcaHandCombined",
     "OrcaHandCombinedExtended",
     "OrcaHandLeft",

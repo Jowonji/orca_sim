@@ -1,0 +1,24 @@
+{
+  "units": "deg",
+  "version": "v2",
+  "saved_at": "2026-09-08T10:57:31",
+  "joints": {
+    "wrist": 0.0,
+    "pinky_abd": 0.0,
+    "pinky_mcp": 100.0,
+    "pinky_pip": 60.0,
+    "ring_abd": 0.0,
+    "ring_mcp": 100.0,
+    "ring_pip": 107.0,
+    "middle_abd": 0.0,
+    "middle_mcp": 0.0,
+    "middle_pip": 0.0,
+    "index_abd": 0.0,
+    "index_mcp": 0.0,
+    "index_pip": 0.0,
+    "thumb_cmc": 0.0,
+    "thumb_abd": 0.0,
+    "thumb_mcp": 100.0,
+    "thumb_dip": 40.0
+  }
+}

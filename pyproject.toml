@@ -45,5 +45,8 @@ orca_sim = [
   "assets/mjcf/right/collision/*.stl",
   "models/mjcf/*.mjcf",
   "models/*/*.mjcf",
+  "models/*/mjcf/*.xml",
+  "models/*/mjcf/*.mjcf",
+  "models/*/assets/*.xml",
   "models/*/assets/mjcf/*/*.stl",
 ]
